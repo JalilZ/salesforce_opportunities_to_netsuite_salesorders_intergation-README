@@ -1,6 +1,6 @@
 # Workato Recipe
 
-Auto create netsuite sales order once the salesforce netsuite sync checkbox (in opportunity object) is checked<br/>
+Auto create netsuite sales order once the salesforce netsuite sync checkbox (in opportunity object) is checked</br>
 For security measures, I cannot share the .json for this recipe - let me know if you need guidance on this topic !
 
 ## Workato actions explained
